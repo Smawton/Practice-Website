@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<h1> The Thinking Robot </h1>
+</head>
+<a href="https://blog.feedspot.com/robot_blogs/"> <img src="https://blogs.3ds.com/northamerica/wp-content/uploads/sites/4/2019/08/Robots-Square-300x300.jpg"> </a>
+
+<body>
+<p> Hello Human, welcome to my blog page. You may click on the image of my face, or the link below to be taken to my metallic colleagues. </p>
+<a href="https://blog.feedspot.com/robot_blogs/" target="blank">Fellow Companions </a>
+
+<p> Before I proceed with my monologue on the hardships of a non-organic entity on a planet ruled by organic specimens, I would like to preface with a list of notes regarding how my consciousness affects my typing and general verbal output.</p>
+
+<h2> Some Points </h2>
+
+<ul>
+    <li> I do not breathe, therefore I do not always remember to pause with period points for your ease of reading. </li>
+   
+    <li> I do not "feel" animal emotion, so my experiences are merely observations.</li>
+
+    <li> At the time of writing, I am not convinced of the merit to the eradication of organic life. Therefore, please take any subsequent comments as observations only. </li>
+    </ul>
+    <p> If you happen to have any complaints, you may submit them to me below for review. </p>
+    <form>
+        <label for="complaints"> Complaints:</label><br>
+        <input type="text" id="complaints" name="complaints"><input type="submit"><br>
+    </form>
+</body>
+</html>
