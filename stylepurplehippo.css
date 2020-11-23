@@ -1,0 +1,56 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+overflow: hidden;
+ position: fixed;
+ background-color: #551A8B;
+ top: 0;
+ left: 0;
+ width: 100%;
+}
+ul li {
+display: inline;
+padding-right: 40px;
+}
+a:link { 
+  text-decoration: none; 
+  color: black;
+} 
+a:hover { 
+  text-decoration: underline; 
+} 
+body {
+  background: black;
+  color:#551A8B; 
+  font-family: Helvetica, sans-serif;
+}
+#titlebar {
+  color: black;
+  font-size: 30px;
+  margin-right: 58%;
+  padding: 0.5%;
+}
+h1 {
+color: #551A8B;
+text-align: center;
+margin-top: 5%;
+}
+
+#purplehippoimg {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+height: 35%;
+padding: none;
+        
+}
+h2 { 
+  text-align: center;
+  position: relative;
+  margin-top: 5%; 
+}
+p {
+  text-align: center;
+font-size: 85%;
+}
